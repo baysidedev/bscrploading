@@ -26,9 +26,9 @@
     "changelog": {
         "changes": [
            {
-            "description": "Massive Bayside County update with performance upgrades, new systems, and fun activities!",
+            "description": "Massive Palm Shore update with performance upgrades, new systems, and fun activities!",
             "type": "UPDATE",
-            "title": "Bayside 2.0"
+            "title": "Palm Shores 1.0"
         },
         {
             "description": "Big optimization pass on all clothing to help with performance and reduce overall city lag. Duplicates removed and optimized clothing is now under 'textures/'.",
@@ -41,7 +41,7 @@
             "title": "MLO & VEHICLE OPTIMIZATION"
         },
         {
-            "description": "New animated loading screen with immersive visual design customized for Bayside County.",
+            "description": "New animated loading screen with immersive visual design customized for Palm Shores.",
             "type": "REDESIGN",
             "title": "LOADING SCREEN"
         },
@@ -89,9 +89,9 @@
     ],
     "store": {
         "type_text": "",
-        "description": "Check out exclusive in-game packages designed to level up your experience while helping support the continued growth and quality of Bayside County Roleplay",
+        "description": "Check out exclusive in-game packages designed to level up your experience while helping support the continued growth and quality of Palm Shores Roleplay",
         "url": "https://store.bscrp.xyz",
-        "title": "Bayside County STORE",
-        "type": "2.0 Summer Sale Soon!"
+        "title": "Palm Shores STORE",
+        "type": "1.0 Summer Sale Soon!"
     }
 }
